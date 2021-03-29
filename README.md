@@ -2,7 +2,7 @@
 Sudoku solver using python and pygame
 
 To run project:
-Linux:
+- Linux:
 python3 GUI.py
-Windows:
+- Windows:
 python GUI.py
